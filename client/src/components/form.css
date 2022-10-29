@@ -1,0 +1,11 @@
+.formContainer{
+    /* position:relative; */
+    margin-top: 50px; 
+    margin-left: 30%;
+    font-size: medium;
+    color: darkslategray;
+}
+
+.clearfix{
+    clear:both ;
+}

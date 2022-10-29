@@ -1,0 +1,14 @@
+.itemList {
+    list-style-type: none;
+}
+.cartInfo {
+    margin-bottom: 20px;
+}
+.link{
+    text-decoration:none;
+     color: white;
+     margin:0px 30px;
+}
+.link:hover{
+    color:grey;
+}

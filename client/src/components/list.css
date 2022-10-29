@@ -1,0 +1,25 @@
+.itemProperty_image{
+    height:180px;
+    float:right;
+} 
+
+.itemProperty_image img{
+    height:100%;
+    object-fit: cover;
+}
+.itemCount{
+    float: right;
+    margin-right: 25%;
+}
+.btn{
+    background-color: darkslategray;
+    color:aliceblue;
+}
+.btn:hover{
+    background-color: aliceblue;
+    color:darkslategray;
+}
+b{
+    font-size: medium;
+    font-family: 'JetBrains Mono','Courier New', Courier, monospace;
+}
